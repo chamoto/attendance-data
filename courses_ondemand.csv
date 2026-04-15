@@ -1,5 +1,5 @@
 name,seriesId,term,totalCount,dueWeekday,dueHour,dueMinute
-ファッションカラー,fashion_color,full_year,30,3,17,00
-服装史,history_of_clothing,full_year,15,3,17,00
-素材知識,material_knowledge,full_year,30,3,17,00
-マーケットリサーチ,market_research,second,,,,
+ファッションカラー,fashion_color,full_year,30,4,17,00
+服装史,history_of_clothing,full_year,15,4,17,00
+素材知識,material_knowledge,full_year,30,4,17,00
+マーケットリサーチ,market_research,second,15,4,17,00
